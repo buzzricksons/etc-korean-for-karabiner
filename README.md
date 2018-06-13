@@ -1,11 +1,11 @@
 # etc-korean-for-karabiner
-Karabiner-Elements 한글 변환용 커스텀 프로필(일본어 Mac OS용) 
+Karabiner-Elements 한글 변환용 커스텀 프로필 (Mac OS에 일본어 키보드 or 영어 키보드를 사용하면서 영어,일본어,한국어를 사용하는 경우) 
 
 # 설정 하기 전에
 ## 세개의 언어만 추가되어 있어야 합니다. (영어, 히라가나, 한글)
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example1.png?raw=true)
 
-카타카나는 삭제할 필요가 있습니다. `구글영어`, `구글히라가나`, `한글2벌식` 이렇게 세개의 언어로 설정되있는 상태에서 테스트 했습니다.
+카타카나는 삭제할 필요가 있습니다. `구글영어`, `구글히라가나`, `한글2벌식` 이렇게 세개의 언어로 설정 되있는 상태에서 테스트 했습니다.
 
 ## 언어전환이 디폴트 설정으로 되어 있어야 합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example2.png?raw=true)
@@ -13,12 +13,13 @@ Karabiner-Elements 한글 변환용 커스텀 프로필(일본어 Mac OS용)
 `入力メニューの次のソースを選択`설정이 활성화되어 있고 키설정이 디폴트인 `Ctrl+Option+Space`로 되어 있어야 합니다.
 
 # 설정 방법
-1.`ChangeKoreanforJapaneseMacOS(rev1).json`파일을 다운로드해서 카라비너의 complex modifications폴더에 추가 합니다.
+1.`ChangeKoreanforJapaneseMacOS_rev1.json`파일을 다운로드해서 카라비너의 complex modifications폴더에 추가 합니다.
+파일을 다운로드할때 github
+(Finder에서 `shift + command + g`를 실행후 `~/.config/karabiner/assets/complex_modifications`를 붙여넣어서 이동하면 카라비너의 complex modifications폴더로 갈 수 있습니다.)
 
-(Finder에서 `shift + command + g`를 실행해서 이동후 붙여넣기)
-- ex)
+- 파일위치 ex)
 ```
-/Users/yoda/.config/karabiner/assets/complex_modifications/ChangeKoreanforJapaneseMacOS(rev1).json
+/Users/yoda/.config/karabiner/assets/complex_modifications/ChangeKoreanforJapaneseMacOS_rev1.json
 
 ``` 
 
