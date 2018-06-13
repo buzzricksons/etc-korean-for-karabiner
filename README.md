@@ -14,8 +14,9 @@ Karabiner-Elements 한글 변환용 커스텀 프로필 (Mac OS에 일본어 키
 
 # 설정 방법
 1.`ChangeKoreanforJapaneseMacOS_rev1.json`파일을 다운로드해서 카라비너의 complex modifications폴더에 추가 합니다.
-파일을 다운로드할때 github
+ 
 (Finder에서 `shift + command + g`를 실행후 `~/.config/karabiner/assets/complex_modifications`를 붙여넣어서 이동하면 카라비너의 complex modifications폴더로 갈 수 있습니다.)
+>※파일을 다운로드할때 github에서 마우스 우클릭의 다른이름으로 저장을 사용하면 확장자는 json이지만 파일내용은 html로 저장되므로 주의.
 
 - 파일위치 ex)
 ```
