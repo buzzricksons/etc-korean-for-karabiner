@@ -36,3 +36,7 @@ Karabiner-Elements 한글 변환용 커스텀 프로필
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example5.png?raw=true)
 
 # 주의점
+이미 다음의 Rules를 사용하고 있는 경우 설정 전에 삭제해야할 필요가 있습니다.
+```
+コマンドキーを簡単で押した時に、英数・かなキーを送信する。（左コマンドキーは英数、右コマンドキーはかな）（rev 2）
+```
