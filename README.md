@@ -1,5 +1,7 @@
 # etc-korean-for-karabiner
-Karabiner-Elements 한글 변환용 커스텀 프로필 (Mac OS에 일본어 키보드 or 영어 키보드를 사용하면서 영어,일본어,한국어를 사용하는 경우) 
+Karabiner-Elements 한글 변환용 커스텀 프로필
+
+(Mac OS에 일본어 키보드 or 영어 키보드를 사용하면서 영어,일본어,한국어를 사용하는 경우) 
 
 # 설정 하기 전에
 ## 세개의 언어만 추가되어 있어야 합니다. (영어, 히라가나, 한글)
