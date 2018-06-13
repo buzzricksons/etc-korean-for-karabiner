@@ -26,7 +26,7 @@ Karabiner-Elements 한글 변환용 커스텀 프로필
 
 ``` 
 
-2.카라비너의 Complex Modifications메뉴에서 좌측하단에 있는 Add rule버튼을 클릭합니다.
+2.카라비너의 preference화면의 Complex Modifications메뉴에서 좌측하단에 있는 Add rule버튼을 클릭합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example3.png?raw=true)
 
 3.For Korean 일본어 맥OS에서 한글전환키 커스텀 지정 (rev.1.00)설정에 있는 2가지의 설정중 자기의 키보드에 맞는 설정을 Enable합니다.
@@ -34,3 +34,5 @@ Karabiner-Elements 한글 변환용 커스텀 프로필
 
 4.Enable한 설정이 추가되 있는것을 확인합니다. 문제가 있거니 제대로 작동하지 않을때는 이 화면에서 Remove버튼을 클릭하면 설정을 삭제할 수 있습니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example5.png?raw=true)
+
+# 주의점
