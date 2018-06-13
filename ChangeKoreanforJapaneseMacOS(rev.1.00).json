@@ -1,5 +1,5 @@
 {
-  "title": "일본어 맥OS에서 한글전환키 지정 (rev.1.00)",
+  "title": "일본어 맥OS에서 한글전환키 커스텀 지정 for Karabiner-elements (rev.1.00)",
   "rules": [
     {
       "description": "우측 옵션키 더블클릭으로 한글전환(일본어 맥OS)",
