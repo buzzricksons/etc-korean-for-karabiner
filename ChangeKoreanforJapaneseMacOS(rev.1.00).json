@@ -2,7 +2,7 @@
   "title": "일본어 맥OS에서 한글전환키 커스텀 지정 for Karabiner-elements (rev.1.00)",
   "rules": [
     {
-      "description": "우측 옵션키 더블클릭으로 한글전환(일본어 맥OS)",
+      "description": "우측 옵션키 더블클릭으로 한글전환(일본어 맥OS, 영문 키보드용)",
       "manipulators": [
         {
           "type": "basic",
@@ -65,6 +65,79 @@
               {
                 "set_variable": {
                   "name": "right_option pressed",
+                  "value": 0
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "description": "Kana키 더블클릭으로 한글전환(일본어 맥OS, 일본어 키보드용)",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "japanese_kana",
+            "modifiers": {
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "spacebar",
+              "modifiers": [
+                "left_control",
+                "left_option"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "variable_if",
+              "name": "japanese_kana pressed",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "japanese_kana",
+            "modifiers": {
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "set_variable": {
+                "name": "japanese_kana pressed",
+                "value": 1
+              }
+            },
+            {
+              "key_code": "japanese_kana"
+            }
+          ],
+          "to_delayed_action": {
+            "to_if_invoked": [
+              {
+                "set_variable": {
+                  "name": "japanese_kana pressed",
+                  "value": 0
+                }
+              }
+            ],
+            "to_if_canceled": [
+              {
+                "set_variable": {
+                  "name": "japanese_kana pressed",
                   "value": 0
                 }
               }
