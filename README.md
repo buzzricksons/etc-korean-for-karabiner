@@ -11,6 +11,9 @@
 - 하이 시에라 10.13.4
 
 # 설정 하기 전에
+## Karabiner-Elements앱이 설치 되어 있어야 합니다
+https://pqrs.org/osx/karabiner/
+
 ## 세개의 언어만 추가되어 있어야 합니다. (영어, 히라가나, 한글)
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example1.png?raw=true)
 
