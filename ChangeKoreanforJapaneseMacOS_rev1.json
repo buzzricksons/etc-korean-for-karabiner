@@ -1,5 +1,5 @@
 {
-  "title": "For Korean 일본어 맥OS에서 한글전환키 커스텀 지정 (rev.1.00)",
+  "title": "For Korean 일본어 맥OS에서 한글전환키 커스텀 지정 (rev.1.1)",
   "rules": [
     {
       "description": "[일어 키보드용] Kana키 더블클릭으로 한글전환",
@@ -111,7 +111,6 @@
           "to": [
             {
               "key_code": "spacebar",
-              "lazy": true,
               "modifiers": [
                 "left_control",
                 "left_option"
@@ -144,8 +143,13 @@
               }
             },
             {
-              "key_code": "japanese_kana",
+              "key_code": "right_command",
               "lazy": true
+            }
+          ],
+          "to_if_alone": [
+            {
+              "key_code": "japanese_kana"
             }
           ],
           "to_delayed_action": {
