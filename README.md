@@ -7,6 +7,9 @@
 - 영어(US) 키보드: 우측 `커맨드키`
     > ※영어(US) 키보드의 경우 `좌측 커맨드키 한번 클릭:영어로 전환`, `우측 커맨드키 한번 클릭:일본어로 전환`도 포함됩니다.) 
 
+# 동작 확인 환경
+- 하이 시에라 10.13.4
+
 # 설정 하기 전에
 ## 세개의 언어만 추가되어 있어야 합니다. (영어, 히라가나, 한글)
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example1.png?raw=true)
