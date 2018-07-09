@@ -9,12 +9,13 @@
 
 # 동작 확인 환경
 - 일본어 하이 시에라 10.13.4
+- 한국어 하이 시에라 10.13.5
 
 # 설정 하기 전에
 ## Karabiner-Elements앱이 설치 되어 있어야 합니다
 https://pqrs.org/osx/karabiner/
 
-## 세개의 언어만 추가되어 있어야 합니다. (영어, 히라가나, 한글)
+## 세개의 언어(영어, 히라가나, 한글)가 추가되어 있어야 하고 언어변화 순서가 일본어 다음에 한글이어야 합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example1.png?raw=true)
 
 카타카나는 삭제할 필요가 있습니다. `구글영어`, `구글히라가나`, `한글2벌식` 이렇게 세개의 언어로 설정 되있는 상태에서 테스트 했습니다.
