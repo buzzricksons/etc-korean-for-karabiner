@@ -1,4 +1,4 @@
-# Karabiner-Elements 한글 전환용 커스텀 프로필
+# Karabiner-Elements 한글 전환용 커스텀 프로필(custom profile for Korean)
 일본어 Mac OS에 일본어(JIS) 키보드 or 영어(US) 키보드를 사용하면서 영어,일본어,한국어를 사용하는 경우
 
 # 특징
@@ -15,7 +15,7 @@
 ## Karabiner-Elements앱이 설치 되어 있어야 합니다
 https://pqrs.org/osx/karabiner/
 
-## 세개의 언어(영어, 히라가나, 한글)가 추가되어 있어야 하고 언어변화 순서가 일본어 다음에 한글이어야 합니다.
+## 세개의 언어(영어, 히라가나, 한글)가 추가되어 있어야 하고 언어변화 순서 일본어 다음에 한글이어야 합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example1.png?raw=true)
 
 카타카나는 삭제할 필요가 있습니다. `구글영어`, `구글히라가나`, `한글2벌식` 이렇게 세개의 언어로 설정 되있는 상태에서 테스트 했습니다.
