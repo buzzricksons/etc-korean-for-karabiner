@@ -1,5 +1,5 @@
 # Karabiner-Elements 한글 전환용 커스텀 프로필(custom profile for Korean)
-일본어 Mac OS에 일본어(JIS) 키보드 or 영어(US) 키보드를 사용하면서 영어,일본어,한국어를 사용하는 경우
+Mac OS에 일본어(JIS) 키보드 or 영어(US) 키보드를 사용하면서 영어,일본어,한국어를 사용하는 경우
 
 # 특징
 다음의 키를 더블 클릭하면 입력 언어를 한글로 전환합니다.
