@@ -10,8 +10,8 @@ Mac OS에 일본어(JIS) 키보드 or 영어(US) 키보드를 사용하면서 �
     > - `우측 커맨드키` 한번 클릭 : 일본어로 전환
 
 # 동작 확인 환경
+- 일본어 모하비 10.14
 - 일본어 하이 시에라 10.13.4
-- 일본어 모하비
 - 영어 시에라 10.12.6
 - 한국어 하이 시에라 10.13.5
 
@@ -37,14 +37,14 @@ https://pqrs.org/osx/karabiner/
 
 - 파일위치 ex)
 ```
-/Users/yoda/.config/karabiner/assets/complex_modifications/ChangeKoreanforJapaneseMacOS_rev1.json
+/Users/yoda/.config/karabiner/assets/complex_modifications/ChangeKoreanforJapaneseMacOS_rev2.json
 
 ``` 
 
 2.카라비너의 preference화면의 Complex Modifications메뉴에서 좌측하단에 있는 Add rule버튼을 클릭합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example3.png?raw=true)
 
-3.For Korean 일본어 맥OS에서 한글전환키 커스텀 지정 (rev.1.00)설정에 있는 2가지의 설정중 자기의 키보드에 맞는 설정을 Enable합니다.
+3.For Korean 일본어 맥OS에서 한글전환키 커스텀 지정 (rev.2)설정에 있는 2가지의 설정중 자기의 키보드에 맞는 설정을 Enable합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example4.png?raw=true)
 
 4.Enable한 설정이 추가되 있는것을 확인합니다. 문제가 있거니 제대로 작동하지 않을때는 이 화면에서 Remove버튼을 클릭하면 설정을 삭제할 수 있습니다.
@@ -57,6 +57,9 @@ https://pqrs.org/osx/karabiner/
 ```
 
 # Change Log
+### 2.0 (2018.10.08)
+- 커맨드키와 다른 키와 조합으로 사용할때 인식이 되지 않던 버그 수정.(ex:파인더에서 커맨드키를 누르고 파일을 선택할때 복수개의 파일이 선택이 안됐었음.)
+
 ### 1.1 (2018.06.14)
 - US 키보드의 오른쪽 커맨드키를 다른 키와 조합으로 사용할때 인식이 되지 않던 버그 수정.
 
