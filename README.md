@@ -16,15 +16,15 @@ Mac OS에 일본어(JIS) 키보드 or 영어(US) 키보드를 사용하면서 �
 - 한국어 하이 시에라 10.13.5
 
 # 설정 하기 전에
-## Karabiner-Elements앱이 설치 되어 있어야 합니다
+## 1.Karabiner-Elements앱이 설치 되어 있어야 합니다
 https://pqrs.org/osx/karabiner/
 
-## 세개의 언어(영어, 히라가나, 한글)가 추가되어 있어야 하고 언어변화 순서(Ctrl+Option+Space로 변환했을때)가 일본어 다음에 한글이어야 합니다.
+## 2.세개의 언어(영어, 히라가나, 한글)가 추가되어 있어야 하고 언어변화 순서(Ctrl+Option+Space로 변환했을때)가 일본어 다음에 한글이어야 합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example1.png?raw=true)
 
 카타카나는 삭제할 필요가 있습니다. `구글영어`, `구글히라가나`, `한글2벌식` 이렇게 세개의 언어로 설정 되있는 상태에서 테스트 했습니다.
 
-## 언어전환이 디폴트 설정으로 되어 있어야 합니다.
+## 3.언어전환이 디폴트 설정으로 되어 있어야 합니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example2.png?raw=true)
 
 `入力メニューの次のソースを選択`설정이 활성화되어 있고 키설정이 디폴트인 `Ctrl+Option+Space`로 되어 있어야 합니다.
