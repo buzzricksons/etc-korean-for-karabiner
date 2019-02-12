@@ -32,7 +32,7 @@ https://pqrs.org/osx/karabiner/
 # 설정 방법
 1.`ChangeKoreanforJapaneseMacOS_rev2.json`파일을 다운로드해서 카라비너의 complex modifications폴더에 추가 합니다.
  > 하이시에라의 경우에는 아래 브랜치의 파일을 다운받으세요.
- > https://www.apple.com/jp/shop/product/FC914J/B/apple-thunderbolt-display27%E3%82%A4%E3%83%B3%E3%83%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%91%E3%83%8D%E3%83%AB)-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D
+ > https://github.com/buzzricksons/etc-korean-for-karabiner/tree/v.1
  
 (Finder에서 `shift + command + g`를 실행후 `~/.config/karabiner/assets/complex_modifications`를 붙여넣어서 이동하면 카라비너의 complex modifications폴더로 갈 수 있습니다.)
 >※ChangeKoreanforJapaneseMacOS_rev1.json파일을 다운로드할때 github에서 마우스 우클릭의 다른이름으로 저장을 사용하면 확장자는 json이지만 파일내용은 html로 저장되므로 주의.
