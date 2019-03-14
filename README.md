@@ -20,12 +20,12 @@ Mac OS에 일본어(JIS) 키보드 or 영어(US) 키보드를 사용하면서 �
 https://pqrs.org/osx/karabiner/
 
 ## 2.세개의 언어(영어, 히라가나, 한글)가 추가되어 있어야 하고 언어변화 순서(Ctrl+Option+Space로 변환했을때)가 일본어 다음에 한글이어야 합니다.
-![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example1.png?raw=true)
+![](https://i.imgur.com/iZZwYgk.png)
 
 카타카나는 삭제할 필요가 있습니다. `구글영어`, `구글히라가나`, `한글2벌식` 이렇게 세개의 언어로 설정 되있는 상태에서 테스트 했습니다.
 
 ## 3.언어전환이 디폴트 설정으로 되어 있어야 합니다.
-![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example2.png?raw=true)
+![](https://i.imgur.com/eUXsvKQ.png)
 
 `入力メニューの次のソースを選択`설정이 활성화되어 있고 키설정이 디폴트인 `Ctrl+Option+Space`로 되어 있어야 합니다.
 
@@ -44,10 +44,10 @@ https://pqrs.org/osx/karabiner/
 ``` 
 
 2.카라비너의 preference화면의 Complex Modifications메뉴에서 좌측하단에 있는 Add rule버튼을 클릭합니다.
-![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example3.png?raw=true)
+![](https://i.imgur.com/Kixy6ZN.png)
 
 3.For Korean 일본어 맥OS에서 한글전환키 커스텀 지정 (rev.2)설정에 있는 2가지의 설정중 자기의 키보드에 맞는 설정을 Enable합니다.
-![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example4.png?raw=true)
+![](https://i.imgur.com/dyeLFo4.png)
 
 4.Enable한 설정이 추가되 있는것을 확인합니다. 문제가 있거니 제대로 작동하지 않을때는 이 화면에서 Remove버튼을 클릭하면 설정을 삭제할 수 있습니다.
 ![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example5.png?raw=true)
