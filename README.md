@@ -50,7 +50,7 @@ https://pqrs.org/osx/karabiner/
 ![](https://i.imgur.com/dyeLFo4.png)
 
 4.Enable한 설정이 추가되 있는것을 확인합니다. 문제가 있거니 제대로 작동하지 않을때는 이 화면에서 Remove버튼을 클릭하면 설정을 삭제할 수 있습니다.
-![](https://github.com/buzzricksons/etc-korean-for-karabiner/blob/master/example_image/example5.png?raw=true)
+![](https://i.imgur.com/SKzR2fw.png)
 
 # 주의점
 이미 다음의 Rules를 사용하고 있는 경우 설정 전에 삭제해야할 필요가 있습니다.
