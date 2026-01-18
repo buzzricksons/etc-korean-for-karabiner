@@ -10,6 +10,7 @@ Mac OS에 일본어(JIS) 키보드 or 영어(US) 키보드를 사용하면서 �
     > - `우측 커맨드키` 한번 클릭 : 일본어로 전환
 
 # 동작 확인 환경
+- 영어 키보드 Tahoe 26.1
 - 영어 키보드 Sequoia 15.7.2
 - 영어 키보드 벤츄라 13.3.1
 - 영어 키보드 몬테레이 12.5.1
@@ -41,8 +42,6 @@ https://pqrs.org/osx/karabiner/
 
 # 설정 방법
 1.`ChangeKoreanforJapaneseMacOS_rev2.json`파일을 다운로드해서 카라비너의 complex modifications폴더에 추가 합니다.
- > 하이시에라 이상의 경우에는 아래 브랜치의 파일을 다운받으세요.  
- > https://github.com/buzzricksons/etc-korean-for-karabiner/tree/v.1
  
 (Finder에서 `shift + command + g`를 실행후 `~/.config/karabiner/assets/complex_modifications`를 붙여넣어서 이동하면 카라비너의 complex modifications폴더로 갈 수 있습니다.)
 >※ChangeKoreanforJapaneseMacOS_rev1.json파일을 다운로드할때 github에서 마우스 우클릭의 다른이름으로 저장을 사용하면 확장자는 json이지만 파일내용은 html로 저장되므로 주의.
